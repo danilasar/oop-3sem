@@ -1,0 +1,9 @@
+C:\Users\contest\source\repos\WorkStarter\bin\Debug\WorkStarter.exe.config
+C:\Users\contest\source\repos\WorkStarter\bin\Debug\WorkStarter.exe
+C:\Users\contest\source\repos\WorkStarter\bin\Debug\WorkStarter.pdb
+C:\Users\contest\source\repos\WorkStarter\obj\Debug\WorkStarter.csprojAssemblyReference.cache
+C:\Users\contest\source\repos\WorkStarter\obj\Debug\WorkStarter.MainWindow.resources
+C:\Users\contest\source\repos\WorkStarter\obj\Debug\WorkStarter.Properties.Resources.resources
+C:\Users\contest\source\repos\WorkStarter\obj\Debug\WorkStarter.csproj.GenerateResource.cache
+C:\Users\contest\source\repos\WorkStarter\obj\Debug\WorkStarter.exe
+C:\Users\contest\source\repos\WorkStarter\obj\Debug\WorkStarter.pdb
