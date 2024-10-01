@@ -12,7 +12,13 @@ namespace StrangeCalculator
 {
     public partial class MainWindow : Form
     {
+        /// <summary>
+        /// Словарь с переменныи, где ключ --- строковое имя, значение --- объект состояния
+        /// </summary>
         Dictionary<string, Variable> vars;
+        /// <summary>
+        /// Объект вычислителя, отвечающий за бизнес-логику программы
+        /// </summary>
         Calculator calculator;
         public MainWindow()
         {
@@ -35,7 +41,7 @@ namespace StrangeCalculator
         }
 
         /// <summary>
-        /// Обработчик событий обновления введённого текста в TextBox подцепляет введённое число и, если удаётся его привести к дублю, обновляет Value.
+        /// Обработчик событий обновления введённого текста в TextBox подцепляет введённое число и, если удаётся его привести к дублю, обновляет значения переменных.
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
@@ -51,7 +57,9 @@ namespace StrangeCalculator
             vars[var].Value = res;
             Task.Run(() => UpdateVariables());
         }
-
+        /// <summary>
+        /// Обновляет значения изменившихся переменных, если все они корректны
+        /// </summary>
         private void UpdateVariables() {
             bool canUpdateCalculatorState = true;
             foreach (KeyValuePair<string, Variable> kv in vars) {

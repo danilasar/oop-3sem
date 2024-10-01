@@ -4,6 +4,10 @@
 #include "real.h"
 #include <stdlib.h>
 
+real::real() {
+    dec = n = 0; m = 1;
+}
+
 real::real(int n, int m) {
     this->n = n;
     this->m = m;
@@ -100,3 +104,4 @@ int real::gcd(int a, int b) {
 real real::clone() const {
     return real(n, m);
 }
+

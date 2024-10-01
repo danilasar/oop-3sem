@@ -8,4 +8,5 @@ add_executable(240907_oop_realnums main.cpp
         real/arithmetic.cpp
         real/comparators.cpp
         real/arithmetic_int.cpp
-        real/utils.cpp)
+        real/utils.cpp
+        list.h)

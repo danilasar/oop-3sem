@@ -23,6 +23,7 @@ public:
     // знаменатель
     int m;
 
+    real();
     real(int n, int m);
 
     real operator+(const real& r) const;
