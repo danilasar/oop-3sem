@@ -44,7 +44,7 @@ namespace StrangeCalculator.Calculator
                 Equations.Add(new Equation(Variables[Variable.xk], Calculator.Calculate(Variables[Variable.xk], Variables[Variable.a])));
             }
 
-            OnEquationsChanged.Invoke();
+            OnEquationsChanged?.Invoke();
         }
     }
 }

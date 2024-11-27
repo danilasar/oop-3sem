@@ -32,7 +32,7 @@ namespace StrangeCalculator.Calculator
         /// </summary>
         public ValueHandler OnVariableChanged;
 
-
+        
         /// <summary>
         /// По умолчанию всем переменным присваивается нулевое значение, но оно может быть изменено. В таком случае бросится событие OnVariableChanged
         /// </summary>
