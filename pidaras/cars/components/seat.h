@@ -1,7 +1,11 @@
-#ifndef _SEATS_SEAT_H
-#define _SEATS_SEAT_H
+#ifndef COMPONENTS_SEATS_SEAT_H
+#define COMPONENTS_SEATS_SEAT_H
+#include <iostream>
+#include <stdint.h>
+#include <string.h>
+#include <sstream>
 
-namespace Components {
+namespace Cars::Components {
 
     enum SeatType {
         SEAT,
@@ -16,8 +20,16 @@ namespace Components {
         SeatType type;
         int number;
         int price;
+        bool taken = false;
+        std::string ToString() const;
+        void Take() {
+            taken = true;
+        }
     };
 
 }
+
+std::ostream& operator <<(std::ostream& out, Cars::Components::Seat& s);
+
 
 #endif

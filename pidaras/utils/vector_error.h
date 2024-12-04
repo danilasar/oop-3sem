@@ -1,14 +1,18 @@
-//
-// Created by danilasar on 04.12.2024.
-//
+#ifndef VECTOR_ERORR_H
+#define VECTOR_ERORR_H
+#include <exception>
+#include <string>
 
-#ifndef PIDARAS_VECTORERROR_H
-#define PIDARAS_VECTORERROR_H
-
-
-class VectorError {
-
+class VectorError : public std::exception
+{
+protected:
+    std::string message;
+public:
+    explicit VectorError(const std::string& message) : message{message} {}
+    const char* what() const noexcept override {
+        return message.c_str();
+    }
 };
 
 
-#endif //PIDARAS_VECTORERROR_H
+#endif //PIDARAS_VECTOR_ERORR_H

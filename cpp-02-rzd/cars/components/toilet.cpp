@@ -27,7 +27,7 @@ void Toilet::TakeToilet() {
     is_free = false;
 }
 
-void Toilet::VakateToilet() {
+void Toilet::VacateToilet() {
     if(IsFree()) {
         throw new Cars::Errors::ToiletError("Туалет и так свободен");
     }

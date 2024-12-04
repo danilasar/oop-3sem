@@ -18,7 +18,7 @@ namespace Cars::Components {
         bool IsAvailable();
 
         void TakeToilet();
-        void VakateToilet();
+        void VacateToilet();
 
         void OpenToilet();
         void CloseToilet();

@@ -31,12 +31,17 @@ namespace StrangeCalculator.Calculator
             return Math.Sign(xk - x0) == Math.Sign(dx) && dx != 0;
         }
 
+        public void Reset()
+        {
+            Equations.Clear();
+        }
+
         private void Recalculate()
         {
-            if(!Check()) {
+            Equations.Clear();
+            if (!Check()) {
                 return;
             }
-            Equations.Clear();
             for(double x = Variables[Variable.x0]; x <= Variables[Variable.xk]; x += Variables[Variable.dx]) {
                 Equations.Add(new Equation(x, Calculator.Calculate(x, Variables[Variable.a])));
             }

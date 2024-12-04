@@ -17,3 +17,13 @@ F:\docs\sgu\code\oop\sharp-02-strange_calculator\StrangeCalculator\obj\Debug\Str
 F:\docs\sgu\code\oop\sharp-02-strange_calculator\StrangeCalculator\obj\Debug\StrangeCalculator.csproj.CoreCompileInputs.cache
 F:\docs\sgu\code\oop\sharp-02-strange_calculator\StrangeCalculator\obj\Debug\StrangeCalculator.exe
 F:\docs\sgu\code\oop\sharp-02-strange_calculator\StrangeCalculator\obj\Debug\StrangeCalculator.pdb
+z:\data\docs\sgu\code\oop\sharp-01\02-strange_calculator\StrangeCalculator\bin\Debug\StrangeCalculator.exe.config
+z:\data\docs\sgu\code\oop\sharp-01\02-strange_calculator\StrangeCalculator\bin\Debug\StrangeCalculator.exe
+z:\data\docs\sgu\code\oop\sharp-01\02-strange_calculator\StrangeCalculator\bin\Debug\StrangeCalculator.pdb
+z:\data\docs\sgu\code\oop\sharp-01\02-strange_calculator\StrangeCalculator\obj\Debug\StrangeCalculator.csproj.AssemblyReference.cache
+z:\data\docs\sgu\code\oop\sharp-01\02-strange_calculator\StrangeCalculator\obj\Debug\StrangeCalculator.MainWindow.resources
+z:\data\docs\sgu\code\oop\sharp-01\02-strange_calculator\StrangeCalculator\obj\Debug\StrangeCalculator.Properties.Resources.resources
+z:\data\docs\sgu\code\oop\sharp-01\02-strange_calculator\StrangeCalculator\obj\Debug\StrangeCalculator.csproj.GenerateResource.cache
+z:\data\docs\sgu\code\oop\sharp-01\02-strange_calculator\StrangeCalculator\obj\Debug\StrangeCalculator.csproj.CoreCompileInputs.cache
+z:\data\docs\sgu\code\oop\sharp-01\02-strange_calculator\StrangeCalculator\obj\Debug\StrangeCalculator.exe
+z:\data\docs\sgu\code\oop\sharp-01\02-strange_calculator\StrangeCalculator\obj\Debug\StrangeCalculator.pdb

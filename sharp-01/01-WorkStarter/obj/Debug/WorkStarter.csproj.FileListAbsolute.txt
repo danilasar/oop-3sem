@@ -17,3 +17,13 @@ C:/Users/contest/source/repos/WorkStarter/obj/Debug/WorkStarter.pdb
 /data/docs/sgu/code/oop/sharp-01-01-WorkStarter/obj/Debug/WorkStarter.csproj.CoreCompileInputs.cache
 /data/docs/sgu/code/oop/sharp-01-01-WorkStarter/obj/Debug/WorkStarter.exe
 /data/docs/sgu/code/oop/sharp-01-01-WorkStarter/obj/Debug/WorkStarter.pdb
+z:\data\docs\sgu\code\oop\sharp-01\01-WorkStarter\bin\Debug\WorkStarter.exe.config
+z:\data\docs\sgu\code\oop\sharp-01\01-WorkStarter\bin\Debug\WorkStarter.exe
+z:\data\docs\sgu\code\oop\sharp-01\01-WorkStarter\bin\Debug\WorkStarter.pdb
+z:\data\docs\sgu\code\oop\sharp-01\01-WorkStarter\obj\Debug\WorkStarter.csproj.AssemblyReference.cache
+z:\data\docs\sgu\code\oop\sharp-01\01-WorkStarter\obj\Debug\WorkStarter.MainWindow.resources
+z:\data\docs\sgu\code\oop\sharp-01\01-WorkStarter\obj\Debug\WorkStarter.Properties.Resources.resources
+z:\data\docs\sgu\code\oop\sharp-01\01-WorkStarter\obj\Debug\WorkStarter.csproj.GenerateResource.cache
+z:\data\docs\sgu\code\oop\sharp-01\01-WorkStarter\obj\Debug\WorkStarter.csproj.CoreCompileInputs.cache
+z:\data\docs\sgu\code\oop\sharp-01\01-WorkStarter\obj\Debug\WorkStarter.exe
+z:\data\docs\sgu\code\oop\sharp-01\01-WorkStarter\obj\Debug\WorkStarter.pdb

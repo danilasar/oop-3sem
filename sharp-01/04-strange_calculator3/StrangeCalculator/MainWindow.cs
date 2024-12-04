@@ -59,13 +59,15 @@ namespace StrangeCalculator
                     || !double.TryParse(new_value as string, out res)
                 ) {
                     vars[var].IsGood = false;
+                    tabulator.Reset();
                     return;
                 }
             }
             vars[var].IsChanged = true;
             vars[var].IsGood = true;
             vars[var].Value = res;
-            Task.Run(() => UpdateVariables());
+            UpdateVariables();
+            //Task.Run(() => UpdateVariables());
         }
 
         /// <summary>
