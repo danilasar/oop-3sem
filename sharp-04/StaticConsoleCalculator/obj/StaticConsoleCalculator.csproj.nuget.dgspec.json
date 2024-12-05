@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\StaticConsoleCalculator\\StaticConsoleCalculator.csproj": {}
+    "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\StaticConsoleCalculator\\StaticConsoleCalculator.csproj": {}
   },
   "projects": {
-    "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+    "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\CalculatorLibrary\\CalculatorLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\CalculatorLibrary\\CalculatorLibrary.csproj",
+        "projectUniqueName": "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\CalculatorLibrary\\CalculatorLibrary.csproj",
         "projectName": "CalculatorLibrary",
-        "projectPath": "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\CalculatorLibrary\\CalculatorLibrary.csproj",
+        "projectPath": "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\CalculatorLibrary\\CalculatorLibrary.csproj",
         "packagesPath": "C:\\Users\\danilasar\\.nuget\\packages\\",
-        "outputPath": "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\CalculatorLibrary\\obj\\",
+        "outputPath": "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\CalculatorLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\StaticConsoleCalculator\\StaticConsoleCalculator.csproj": {
+    "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\StaticConsoleCalculator\\StaticConsoleCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\StaticConsoleCalculator\\StaticConsoleCalculator.csproj",
+        "projectUniqueName": "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\StaticConsoleCalculator\\StaticConsoleCalculator.csproj",
         "projectName": "StaticConsoleCalculator",
-        "projectPath": "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\StaticConsoleCalculator\\StaticConsoleCalculator.csproj",
+        "projectPath": "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\StaticConsoleCalculator\\StaticConsoleCalculator.csproj",
         "packagesPath": "C:\\Users\\danilasar\\.nuget\\packages\\",
-        "outputPath": "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\StaticConsoleCalculator\\obj\\",
+        "outputPath": "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\StaticConsoleCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -94,8 +94,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\CalculatorLibrary\\CalculatorLibrary.csproj": {
-                "projectPath": "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\CalculatorLibrary\\CalculatorLibrary.csproj"
+              "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\CalculatorLibrary\\CalculatorLibrary.csproj": {
+                "projectPath": "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\CalculatorLibrary\\CalculatorLibrary.csproj"
               }
             }
           }
