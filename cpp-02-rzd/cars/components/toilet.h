@@ -1,8 +1,12 @@
+#ifndef _CARS_COMPONENTS_TOILET_H
+#define _CARS_COMPONENTS_TOILET_H
+#include <iostream>
 namespace Cars::Components {
     enum ToiletType {
         Invalids,
         Male,
-        Female
+        Female,
+        Unisex
     };
     class Toilet {
     private:
@@ -10,12 +14,12 @@ namespace Cars::Components {
         bool is_free;
         bool is_working;
     public:
-        Toilet(ToiletType type);
-        ToiletType GetToiletType();
+        explicit Toilet(ToiletType type = Unisex);
+        ToiletType GetToiletType() const;
 
-        bool IsFree();
-        bool IsWorking();
-        bool IsAvailable();
+        bool IsFree() const;
+        bool IsWorking() const;
+        bool IsAvailable() const;
 
         void TakeToilet();
         void VacateToilet();
@@ -23,5 +27,8 @@ namespace Cars::Components {
         void OpenToilet();
         void CloseToilet();
         void ToggleToilet();
+
+        std::string ToString() const;
     };
 };
+#endif

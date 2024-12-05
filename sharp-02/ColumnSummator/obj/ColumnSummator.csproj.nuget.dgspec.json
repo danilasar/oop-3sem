@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\data\\docs\\sgu\\code\\oop\\sharp-02\\ColumnSummator\\ColumnSummator.csproj": {}
+    "z:\\data\\docs\\sgu\\code\\oop\\sharp-02\\ColumnSummator\\ColumnSummator.csproj": {}
   },
   "projects": {
-    "Z:\\data\\docs\\sgu\\code\\oop\\sharp-02\\ColumnSummator\\ColumnSummator.csproj": {
+    "z:\\data\\docs\\sgu\\code\\oop\\sharp-02\\ColumnSummator\\ColumnSummator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\data\\docs\\sgu\\code\\oop\\sharp-02\\ColumnSummator\\ColumnSummator.csproj",
+        "projectUniqueName": "z:\\data\\docs\\sgu\\code\\oop\\sharp-02\\ColumnSummator\\ColumnSummator.csproj",
         "projectName": "ColumnSummator",
-        "projectPath": "Z:\\data\\docs\\sgu\\code\\oop\\sharp-02\\ColumnSummator\\ColumnSummator.csproj",
+        "projectPath": "z:\\data\\docs\\sgu\\code\\oop\\sharp-02\\ColumnSummator\\ColumnSummator.csproj",
         "packagesPath": "C:\\Users\\danilasar\\.nuget\\packages\\",
-        "outputPath": "Z:\\data\\docs\\sgu\\code\\oop\\sharp-02\\ColumnSummator\\obj\\",
+        "outputPath": "z:\\data\\docs\\sgu\\code\\oop\\sharp-02\\ColumnSummator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

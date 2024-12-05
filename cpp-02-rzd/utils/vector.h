@@ -1,4 +1,5 @@
-
+#ifndef UTILS_VECTOR_H
+#define UTILS_VECTOR_H
 
 #include <bits/stdc++.h>
 template <typename T> class Vector {
@@ -10,60 +11,26 @@ template <typename T> class Vector {
     int current;
  
 public:
-    Vector()
-    {
-        arr = new T[1];
-        capacity = 1;
-        current = 0;
-    }
-    ~Vector() { delete[] arr; }
+    Vector();
+    ~Vector();
  
-    void push(T data)
-    {
+    void push(T data);
  
-        if (current == capacity) {
-            T* temp = new T[2 * capacity];
+    void push(T data, int index);
  
-            for (int i = 0; i < capacity; i++) {
-                temp[i] = arr[i];
-            }
+    T* get(int index);
  
-            delete[] arr;
-            capacity *= 2;
-            arr = temp;
-        }
+    void pop();
  
-        arr[current] = data;
-        current++;
-    }
+    int size();
+
+    void clear();
  
-    void push(T data, int index)
-    {
- 
-        if (index == capacity)
-            push(data);
-        else
-            arr[index] = data;
-    }
- 
-    T get(int index)
-    {
-        if (index < current)
-            return arr[index];
-        return -1;
-    }
- 
-    void pop() { current--; }
- 
-    int size() { return current; }
- 
-    int getcapacity() { return capacity; }
- 
-    void print()
-    {
-        for (int i = 0; i < current; i++) {
-                std::cout << arr[i] << " ";
-        }
-        std::cout << std::endl;
-    }
+    int getcapacity();
+    void print();
 };
+
+
+#include "vector.cpp"
+
+#endif

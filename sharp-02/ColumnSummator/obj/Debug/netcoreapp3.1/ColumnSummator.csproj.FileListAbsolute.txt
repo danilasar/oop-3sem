@@ -1,0 +1,14 @@
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\bin\Debug\netcoreapp3.1\ColumnSummator.exe
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\bin\Debug\netcoreapp3.1\ColumnSummator.deps.json
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\bin\Debug\netcoreapp3.1\ColumnSummator.runtimeconfig.json
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\bin\Debug\netcoreapp3.1\ColumnSummator.runtimeconfig.dev.json
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\bin\Debug\netcoreapp3.1\ColumnSummator.dll
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\bin\Debug\netcoreapp3.1\ColumnSummator.pdb
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\obj\Debug\netcoreapp3.1\ColumnSummator.csproj.AssemblyReference.cache
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\obj\Debug\netcoreapp3.1\ColumnSummator.GeneratedMSBuildEditorConfig.editorconfig
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\obj\Debug\netcoreapp3.1\ColumnSummator.AssemblyInfoInputs.cache
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\obj\Debug\netcoreapp3.1\ColumnSummator.AssemblyInfo.cs
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\obj\Debug\netcoreapp3.1\ColumnSummator.csproj.CoreCompileInputs.cache
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\obj\Debug\netcoreapp3.1\ColumnSummator.dll
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\obj\Debug\netcoreapp3.1\ColumnSummator.pdb
+z:\data\docs\sgu\code\oop\sharp-02\ColumnSummator\obj\Debug\netcoreapp3.1\ColumnSummator.genruntimeconfig.cache

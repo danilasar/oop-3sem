@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4gtZX0xu+sW8yuZM3Aih4+b10PlZBc8I3bJ38hZn7KeeRqZtKvGOlsibuP/RT+cV7uK4ITMJw3vYofNnFRJmWg==",
+  "dgSpecHash": "AXoud2CzuCx8CXpbUZb9zY+zb81eekK+784ppkza1cl3kKrldRRgBgVtYP9AFX2B19htgV+OzndHwWo7BvEaTw==",
   "success": true,
-  "projectFilePath": "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\DynamicConsoleCalculator\\DynamicConsoleCalculator.csproj",
+  "projectFilePath": "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\DynamicConsoleCalculator\\DynamicConsoleCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

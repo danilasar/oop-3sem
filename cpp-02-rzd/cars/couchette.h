@@ -1,5 +1,13 @@
+#ifndef _CARS_COUCHETTE_H
+#define _CARS_COUCHETTE_H
 #include "car.h"
+#include "compartment.h"
 
-class Couchette : public Car {
+namespace Cars {
+    class Couchette : public Compartment {
+    public:
+        Couchette();
+    };
+}
 
-};
+#endif

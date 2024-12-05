@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "79EMXrWJTCu7tCSWK/D8o9WLv9QJmKwkxv4kmPC/5xu3HN2dGwXZ46Yf2oBi2UKu0mNWH8x58zRd2+VxqNXmkQ==",
+  "dgSpecHash": "he0g7CTOPVBjrPPbZl8XJmORC4z8AJ70AwvE7VGBfOBH+z+wrvmoyyYBiB8UULWcVpgXgANaDbjoBc69+F8lwQ==",
   "success": true,
-  "projectFilePath": "z:\\data\\docs\\sgu\\code\\oop\\04-sharp\\CalculatorLibrary\\CalculatorLibrary.csproj",
+  "projectFilePath": "z:\\data\\docs\\sgu\\code\\oop\\sharp-04\\CalculatorLibrary\\CalculatorLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
