@@ -1,6 +1,6 @@
 #include <cstdint>
 
-#define USE_CUSTOM_EXCEPTIONS false // true => бросать исключения класса error и производные, false => бросать инты
+#define USE_CUSTOM_EXCEPTIONS true // true => бросать исключения класса error и производные, false => бросать инты
 
 // в первой лабораторной работе это был enum,
 // но, согласно требованиям третьей, enum был

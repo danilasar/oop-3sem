@@ -8,3 +8,13 @@ C:\Users\danilasar\source\repos\PhotoshopKiller\obj\Debug\PhotoshopKiller.csproj
 C:\Users\danilasar\source\repos\PhotoshopKiller\obj\Debug\PhotoshopKiller.csproj.CoreCompileInputs.cache
 C:\Users\danilasar\source\repos\PhotoshopKiller\obj\Debug\PhotoshopKiller.exe
 C:\Users\danilasar\source\repos\PhotoshopKiller\obj\Debug\PhotoshopKiller.pdb
+z:\data\docs\sgu\code\oop\sharp-05\bin\Debug\PhotoshopKiller.exe.config
+z:\data\docs\sgu\code\oop\sharp-05\bin\Debug\PhotoshopKiller.exe
+z:\data\docs\sgu\code\oop\sharp-05\bin\Debug\PhotoshopKiller.pdb
+z:\data\docs\sgu\code\oop\sharp-05\obj\Debug\PhotoshopKiller.csproj.AssemblyReference.cache
+z:\data\docs\sgu\code\oop\sharp-05\obj\Debug\PhotoshopKiller.PhotoshopKiller.resources
+z:\data\docs\sgu\code\oop\sharp-05\obj\Debug\PhotoshopKiller.Properties.Resources.resources
+z:\data\docs\sgu\code\oop\sharp-05\obj\Debug\PhotoshopKiller.csproj.GenerateResource.cache
+z:\data\docs\sgu\code\oop\sharp-05\obj\Debug\PhotoshopKiller.csproj.CoreCompileInputs.cache
+z:\data\docs\sgu\code\oop\sharp-05\obj\Debug\PhotoshopKiller.exe
+z:\data\docs\sgu\code\oop\sharp-05\obj\Debug\PhotoshopKiller.pdb
